@@ -46,13 +46,13 @@ The project uses CSV files from the `Data` folder.
    <img width="1376" alt="Screen Shot 2024-07-05 at 16 38 50" src="https://github.com/ayushi0130/stock_price_analysis/assets/128896031/4c83c190-40c3-492a-95fd-191d919fc168">
 
 4. Resampling analysis :
-   Monthly Analysis:
+   * Monthly Analysis:
    <img width="612" alt="Screen Shot 2024-07-05 at 16 40 52" src="https://github.com/ayushi0130/stock_price_analysis/assets/128896031/0636688f-bd1b-4ff4-b8ee-4dc19292d9f4">
 
-   Yearly Analysis:
+   * Yearly Analysis:
    <img width="621" alt="Screen Shot 2024-07-05 at 16 41 12" src="https://github.com/ayushi0130/stock_price_analysis/assets/128896031/b81594b4-7513-4980-ad4b-37d28bf9086b">
 
-   Quaterly Analysis:
+   * Quaterly Analysis:
    <img width="605" alt="Screen Shot 2024-07-05 at 16 41 33" src="https://github.com/ayushi0130/stock_price_analysis/assets/128896031/aace941a-da9d-4e3e-aff2-8fb5624e6ef1">
 
 6. Multivarient Analysis:
